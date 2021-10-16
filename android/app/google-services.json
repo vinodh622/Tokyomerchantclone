@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917569150989",
+    "project_id": "tokyo-merchant-f66a0",
+    "storage_bucket": "tokyo-merchant-f66a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917569150989:android:25ad0150bee738c4913544",
+        "android_client_info": {
+          "package_name": "com.tokyosecret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917569150989-m9l28p5jvlemuaku83r9oans7mdaupnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0jjN9o66Cdmzohop4Txa8miDMwAeH18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917569150989-m9l28p5jvlemuaku83r9oans7mdaupnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
